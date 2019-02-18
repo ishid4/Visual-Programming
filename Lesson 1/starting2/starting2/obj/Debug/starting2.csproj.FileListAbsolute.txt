@@ -1,0 +1,10 @@
+C:\Users\Lab_C\Desktop\C#\i.o\starting2\starting2\bin\Debug\starting2.exe.config
+C:\Users\Lab_C\Desktop\C#\i.o\starting2\starting2\bin\Debug\starting2.exe
+C:\Users\Lab_C\Desktop\C#\i.o\starting2\starting2\bin\Debug\starting2.pdb
+C:\Users\Lab_C\Desktop\C#\i.o\starting2\starting2\obj\Debug\starting2.csprojAssemblyReference.cache
+C:\Users\Lab_C\Desktop\C#\i.o\starting2\starting2\obj\Debug\starting2.Form1.resources
+C:\Users\Lab_C\Desktop\C#\i.o\starting2\starting2\obj\Debug\starting2.Properties.Resources.resources
+C:\Users\Lab_C\Desktop\C#\i.o\starting2\starting2\obj\Debug\starting2.csproj.GenerateResource.cache
+C:\Users\Lab_C\Desktop\C#\i.o\starting2\starting2\obj\Debug\starting2.csproj.CoreCompileInputs.cache
+C:\Users\Lab_C\Desktop\C#\i.o\starting2\starting2\obj\Debug\starting2.exe
+C:\Users\Lab_C\Desktop\C#\i.o\starting2\starting2\obj\Debug\starting2.pdb
