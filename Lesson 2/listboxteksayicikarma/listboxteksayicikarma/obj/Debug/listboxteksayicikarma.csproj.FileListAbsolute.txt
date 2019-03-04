@@ -1,0 +1,10 @@
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxteksayicikarma\listboxteksayicikarma\bin\Debug\listboxteksayicikarma.exe.config
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxteksayicikarma\listboxteksayicikarma\bin\Debug\listboxteksayicikarma.exe
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxteksayicikarma\listboxteksayicikarma\bin\Debug\listboxteksayicikarma.pdb
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxteksayicikarma\listboxteksayicikarma\obj\Debug\listboxteksayicikarma.csprojAssemblyReference.cache
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxteksayicikarma\listboxteksayicikarma\obj\Debug\listboxteksayicikarma.Form1.resources
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxteksayicikarma\listboxteksayicikarma\obj\Debug\listboxteksayicikarma.Properties.Resources.resources
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxteksayicikarma\listboxteksayicikarma\obj\Debug\listboxteksayicikarma.csproj.GenerateResource.cache
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxteksayicikarma\listboxteksayicikarma\obj\Debug\listboxteksayicikarma.csproj.CoreCompileInputs.cache
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxteksayicikarma\listboxteksayicikarma\obj\Debug\listboxteksayicikarma.exe
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxteksayicikarma\listboxteksayicikarma\obj\Debug\listboxteksayicikarma.pdb

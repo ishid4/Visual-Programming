@@ -1,0 +1,10 @@
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxrandomkarakter\listboxrandomkarakter\bin\Debug\listboxrandomkarakter.exe.config
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxrandomkarakter\listboxrandomkarakter\bin\Debug\listboxrandomkarakter.exe
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxrandomkarakter\listboxrandomkarakter\bin\Debug\listboxrandomkarakter.pdb
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxrandomkarakter\listboxrandomkarakter\obj\Debug\listboxrandomkarakter.csprojAssemblyReference.cache
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxrandomkarakter\listboxrandomkarakter\obj\Debug\listboxrandomkarakter.Form1.resources
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxrandomkarakter\listboxrandomkarakter\obj\Debug\listboxrandomkarakter.Properties.Resources.resources
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxrandomkarakter\listboxrandomkarakter\obj\Debug\listboxrandomkarakter.csproj.GenerateResource.cache
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxrandomkarakter\listboxrandomkarakter\obj\Debug\listboxrandomkarakter.csproj.CoreCompileInputs.cache
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxrandomkarakter\listboxrandomkarakter\obj\Debug\listboxrandomkarakter.exe
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listboxrandomkarakter\listboxrandomkarakter\obj\Debug\listboxrandomkarakter.pdb
