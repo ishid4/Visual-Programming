@@ -1,0 +1,10 @@
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listcheckbox\listcheckbox\bin\Debug\listcheckbox.exe.config
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listcheckbox\listcheckbox\bin\Debug\listcheckbox.exe
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listcheckbox\listcheckbox\bin\Debug\listcheckbox.pdb
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listcheckbox\listcheckbox\obj\Debug\listcheckbox.csprojAssemblyReference.cache
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listcheckbox\listcheckbox\obj\Debug\listcheckbox.Form1.resources
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listcheckbox\listcheckbox\obj\Debug\listcheckbox.Properties.Resources.resources
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listcheckbox\listcheckbox\obj\Debug\listcheckbox.csproj.GenerateResource.cache
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listcheckbox\listcheckbox\obj\Debug\listcheckbox.csproj.CoreCompileInputs.cache
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listcheckbox\listcheckbox\obj\Debug\listcheckbox.exe
+C:\Users\Lab_C\Desktop\C#\i.o\Lesson 2\listcheckbox\listcheckbox\obj\Debug\listcheckbox.pdb
