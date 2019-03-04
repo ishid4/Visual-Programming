@@ -1,0 +1,10 @@
+D:\github\CSharp\RandomListBox\RandomListBox\bin\Debug\RandomListBox.exe.config
+D:\github\CSharp\RandomListBox\RandomListBox\bin\Debug\RandomListBox.exe
+D:\github\CSharp\RandomListBox\RandomListBox\bin\Debug\RandomListBox.pdb
+D:\github\CSharp\RandomListBox\RandomListBox\obj\Debug\RandomListBox.csprojAssemblyReference.cache
+D:\github\CSharp\RandomListBox\RandomListBox\obj\Debug\RandomListBox.Form1.resources
+D:\github\CSharp\RandomListBox\RandomListBox\obj\Debug\RandomListBox.Properties.Resources.resources
+D:\github\CSharp\RandomListBox\RandomListBox\obj\Debug\RandomListBox.csproj.GenerateResource.cache
+D:\github\CSharp\RandomListBox\RandomListBox\obj\Debug\RandomListBox.csproj.CoreCompileInputs.cache
+D:\github\CSharp\RandomListBox\RandomListBox\obj\Debug\RandomListBox.exe
+D:\github\CSharp\RandomListBox\RandomListBox\obj\Debug\RandomListBox.pdb
