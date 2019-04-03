@@ -1,0 +1,10 @@
+C:\Users\Macbeth\source\repos\exam2\exam2\bin\Debug\exam2.exe.config
+C:\Users\Macbeth\source\repos\exam2\exam2\bin\Debug\exam2.exe
+C:\Users\Macbeth\source\repos\exam2\exam2\bin\Debug\exam2.pdb
+C:\Users\Macbeth\source\repos\exam2\exam2\obj\Debug\exam2.csprojAssemblyReference.cache
+C:\Users\Macbeth\source\repos\exam2\exam2\obj\Debug\exam2.Form1.resources
+C:\Users\Macbeth\source\repos\exam2\exam2\obj\Debug\exam2.Properties.Resources.resources
+C:\Users\Macbeth\source\repos\exam2\exam2\obj\Debug\exam2.csproj.GenerateResource.cache
+C:\Users\Macbeth\source\repos\exam2\exam2\obj\Debug\exam2.csproj.CoreCompileInputs.cache
+C:\Users\Macbeth\source\repos\exam2\exam2\obj\Debug\exam2.exe
+C:\Users\Macbeth\source\repos\exam2\exam2\obj\Debug\exam2.pdb
